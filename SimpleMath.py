@@ -1,15 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-# In[ ]:
-
-
 import tensorflow as tf
 import google.datalab.ml as ml
-
-
-# In[ ]:
-
 
 a = tf.constant(6.5, name='constant_a')
 
